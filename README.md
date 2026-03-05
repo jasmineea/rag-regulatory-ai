@@ -2,6 +2,10 @@
 
 <h1>RAG Regulatory AI</h1>
 
+<p align="center">
+  <img src="docs/rag_architecture.png" width="300">
+</p>
+
 <p>
   A step-by-step example of building a <strong>Retrieval Augmented Generation (RAG)</strong> system using
   <strong>Google Gemini</strong> and <strong>vector search</strong> to analyze regulatory documents.
