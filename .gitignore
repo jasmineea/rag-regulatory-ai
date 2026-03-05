@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / keys
+*.json
+*key*.json
+policy-rag-dev-key.json
+
+# OS
+.DS_Store
